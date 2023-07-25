@@ -1,14 +1,14 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abyappan/buildmachinelearning_R/tree/main/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abyappan/buildmachinelearning_Py/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/abyappan/buildmachinelearning_R/tree/main/HEAD
+https://mybinder.org/v2/gh/abyappan/buildmachinelearning_Py/HEAD
 
-This project is built on the following reference: https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+This project is built on the following reference: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:

@@ -16,6 +16,8 @@ dependencies:
     r-Suggests
   - python=3.11
   - numpy
+  - scipy
+  - sklearn
   - psutil
   - toolz
   - matplotlib
